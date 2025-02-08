@@ -1,0 +1,6 @@
+[user]
+	name = NiveditaSingh2
+[http]
+	sslbackend = schannel
+[color]
+	ui = auto
